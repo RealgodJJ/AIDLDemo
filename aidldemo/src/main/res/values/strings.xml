@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AIDLDemo</string>
+    <string name="remote_start_service">远程启动服务</string>
+    <string name="remote_stop_service">远程停止服务</string>
+    <string name="remote_bind_service">远程绑定服务</string>
+    <string name="remote_unbind_service">远程解绑服务</string>
+</resources>
