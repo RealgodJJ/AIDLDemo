@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
-        <activity android:name="realgodjj.example.com.servicedemo.realgodjj.example.com.aidldemo.MainActivity">
+        <activity android:name="realgodjj.example.com.aidldemo.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
